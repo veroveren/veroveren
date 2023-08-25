@@ -1,6 +1,9 @@
-# &nbsp; Hi there, I'm Veroveren
-## &nbsp; About Me
-I'm 16 yo Teenager who like to learn and explore internet things
+# <div align=center>&nbsp;Hi there, I'm Veroveren 👋</div>
+## <div align=center>&nbsp; About Me</div>
+<div align=center>
+  <div align=start>I'm 16 yo Teenager who like to learn and explore internet things</div>
+  <div align=end><img src='https://giphy.com/embed/11lxCeKo6cHkJy'></div>
+</div>
 
 ## &nbsp; Tech Stack
 In the realm of development, I work with a variety of technologies, some of which include:
