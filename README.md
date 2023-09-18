@@ -8,7 +8,7 @@
 ## &nbsp; Tech Stack
 In the realm of development, I work with a variety of technologies, some of which include:
 - Website Development : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-- Data Base : ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+- Data Base : ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![JSON](https://img.shields.io/badge/JSON-F7DF1E?logo=json&logoColor=black&style=for-the-badge)
 - Programming Languages : ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 - Others : ![Ren'Py](https://img.shields.io/badge/Ren'Py-FF5050?logo=renpy&logoColor=white&style=for-the-badge) ![GameMaker Studio 2](https://img.shields.io/badge/GameMaker%20Studio%202-1C1C1C?logo=gamemaker&logoColor=white&style=for-the-badge)
 
